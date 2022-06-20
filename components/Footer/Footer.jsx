@@ -83,7 +83,7 @@ function Footer(props) {
   return (
     <ContainerFooter validacao={validacao}>
       <h4>35.000+ ALREADY JOINED</h4>
-      <h1>Stay up-to-date with what we're doing</h1>
+      <h1>Stay up-to-date with what we&#39;re doing</h1>
       <form
         action=""
         onSubmit={(e) => {
@@ -106,7 +106,7 @@ function Footer(props) {
         ) : validacao === "invalido" ? (
           <div>
             <img src="/icon-error.svg" alt="" />
-            <p>Whoops, make sure it's an email</p>
+            <p>Whoops, make sure it&#39;s an email</p>
           </div>
         ) : (
           <div>

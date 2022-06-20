@@ -34,7 +34,7 @@ function FrequentlyQuestions(props) {
       <Title_Descrition>
         <h1>Frequently Asked Questions</h1>
         <p>
-          Here are some of our FAQs. if you have any other questions you'd like
+          Here are some of our FAQs. if you have any other questions you&#39;d like
           answered please feel free to email us.
         </p>
       </Title_Descrition>
